@@ -1,0 +1,2 @@
+cd BIT/weekly/
+time jupyter nbconvert --inplace --execute *.ipynb
