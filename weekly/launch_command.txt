@@ -1,2 +1,7 @@
-cd BIT/weekly/
+#Old Command ->
+cd pybit_kmk_v1/weekly
 time jupyter nbconvert --inplace --execute *.ipynb
+
+# New Command ->
+1. cd pybit_kmk_v1/weekly
+2. python multi_run.py
