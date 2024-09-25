@@ -20,8 +20,8 @@ notebook_groups = {
     'Group 3' : ['bit_06_Geosummary_Trend_Feed.ipynb','bit_07_Prescriber_Profile_Info.ipynb', 'bit_08_Prescriber_Sales_Performance.ipynb'],
     'Group 4' : ['bit_09_Prescriber_Trend_Feed.ipynb', 'bit_10_Prescriber_Sales_Activity.ipynb','bit_11_Prescriber_PayerMix.ipynb'],
 	'Group 5' : ['bit_13_DenormalizedPrescriber_ProfileInfo.ipynb', 'bit_14_DenormalizedPrescriber_MetricPerformance.ipynb', 'bit_15_Doc360_CallActivity.ipynb'],
-    'Group 5' : ['bit_16_Doc360_MC.ipynb', 'bit_16_Doc360_SampleActivity.ipynb', 'bit_17_LinzessSnapshot_ProfileInfo.ipynb'],
-	'Group 6' : ['bit_18_LInzessSnapshot_SalesActivity.ipynb', 'bit_19_LinzessSnapshot_Sales_Performance.ipynb']
+    'Group 6' : ['bit_16_Doc360_MC.ipynb', 'bit_16_Doc360_SampleActivity.ipynb', 'bit_17_LinzessSnapshot_ProfileInfo.ipynb'],
+	'Group 7' : ['bit_18_LInzessSnapshot_SalesActivity.ipynb', 'bit_19_LinzessSnapshot_Sales_Performance.ipynb', 'bit_20_Prescriber_Payer.ipynb']
 }
 
 max_workers = 4 # Set the number of workers
